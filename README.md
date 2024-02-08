@@ -1,6 +1,6 @@
 # Proyecto MERN 5
 
-API de portfolios de la comunidad developer. Continiene lso portfolios del README de X.
+API de portfolios de la comunidad developer. Continiene los portfolios del README de ![Evavic44](https://github.com/Evavic44). ![Enlace al README](https://github.com/Evavic44/portfolio-ideas)
 
 ```javascript
 const document = {
