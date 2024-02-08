@@ -21,7 +21,7 @@ const loginUser = async (req, res) => {
   const user = await mongo.getUserByUserNameFromDB(userName);
 
   if (!user) {
-    res.status(401).json({ data: `User doesn't exists` });
+    res.status(401).json({ data: `User doesn't exist` });
     return;
   }
 
