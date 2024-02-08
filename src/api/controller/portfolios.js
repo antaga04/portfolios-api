@@ -1,4 +1,4 @@
-const mongo = require('../../respository/portfolios');
+const mongo = require('../../repository/portfolios');
 
 const getAllPortfolios = async (req, res, next) => {
   try {

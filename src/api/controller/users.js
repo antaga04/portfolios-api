@@ -1,6 +1,6 @@
 const { signToken } = require('../../config/jwt');
 const { hashPassword, verifyPassword } = require('../../config/password');
-const mongo = require('../../respository/users');
+const mongo = require('../../repository/users');
 
 const registerUser = async (req, res) => {
   try {
