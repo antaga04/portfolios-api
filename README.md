@@ -57,10 +57,10 @@ https://localhost:4001/api
 }
 ```
 
-En caso de querer probar el proyecto en local, se deberá instalar lo siguiente.
+En caso de querer probar el proyecto en local, se deberán instalar las dependencias.
 
 ```javascript
-npm install mongoose express dotenv bcrypt jsonwebtoken express-rate-limit cors cloudinary multer multer-storage-cloudinary
+npm install
 ```
 
 ### > Para cualquier duda puedes contartarme al email antaga04@gmail.com :)
